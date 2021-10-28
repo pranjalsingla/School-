@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+#about{
+    background-color: bisque; 
+}
+.links{
+display: inline;
+width: 100%;
+z-index: 10; 
+margin: 9px auto;
+}
+#achievements{
+    background-color: hotpink;
+}
+#whats{
+    background-color: cornflowerblue;
+}
+#curriculum{
+    background-color: fuchsia;
+}
+#contact{
+    background-color: blueviolet;
+}
+#dow{
+    height: 350px;
+    width: 400px;
+}
